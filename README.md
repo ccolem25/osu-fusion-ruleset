@@ -9,6 +9,8 @@ This project is an ambitious attempt to push the boundaries of custom ruleset de
 ✨ Core Rulesets
 
 1. osu!Scratch (Mania + Taiko Fusion)
+#### Visualization:
+![Concept Screenshot of Osu!Scratch Mode](osu-fusion-ruleset/assets/Gemini_Generated_Image_9orwzi9orwzi9orw.png)
 
 The ultimate test of rhythmic independence and coordination. This mode layers a complete Taiko-style input layer onto the vertical scrolling mania playfield.
 Feature	Description
@@ -17,6 +19,9 @@ Gameplay	Players must hit vertical VSRG notes while simultaneously managing comp
 Challenge	Forces highly polyrhythmic input and cross-hand coordination, similar to playing a drum kit while reading sheet music.
 
 2. osu!ModDrop (Standard + Catch Fusion)
+
+#### Visualization:
+![Concept Screenshot of Osu!ModDrop Mode with Classic Spinner](osu-fusion-ruleset/assets/Gemini_Generated_Image_8lk2738lk2738lk2.png)
 
 A high-risk, high-reward mechanic that integrates the Catch game mode into Standard gameplay to allow for mid-map mod acquisition.
 Feature	Description
