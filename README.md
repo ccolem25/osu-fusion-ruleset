@@ -1,4 +1,6 @@
 # osu-fusion-ruleset
+![osu!fusion concept-logo](assets/lazerfxlogo.png)
+
 Next-generation cross-mode gameplay for osu!lazer. This repository hosts a suite of experimental, community-driven rulesets for osu!lazer, focused on merging core mechanics from multiple official game modes to create entirely new rhythmic challenges
 
 
@@ -29,6 +31,13 @@ Core Mechanic	Spinner objects are converted into Mod Droppers.
 Loot	When a player successfully spins a Mod Dropper, it scatters Mod Fruits (e.g., No Fail, Hidden, Double Time) that fall toward the bottom of the screen.
 Collection	The player controls the osu!Catch Catcher at the bottom of the screen to collect the falling Mod Fruits.
 Result	Collecting a Mod Fruit dynamically applies or removes that Mod for the rest of the map, adding a crucial layer of strategic decision-making mid-play.
+
+(Pending) Roadmap <br>
+10/16/25 - Concept <br>
+11/10/26 - V1 Release <br>
+2027 - osu-fusion-playfield expansion <br>
+2028 - osu!voice lyrical expansion <br>
+2030+ - osu!fusion multiplayer support <br>
 
 ⚙️ Development Setup
 
