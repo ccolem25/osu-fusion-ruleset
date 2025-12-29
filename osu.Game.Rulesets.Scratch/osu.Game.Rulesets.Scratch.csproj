@@ -7,12 +7,10 @@
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\osu\osu.Game\osu.Game.csproj" />
+<ItemGroup>
+    <ProjectReference Include="..\..\osu\osu.Game\osu.Game.csproj" /> 
     <ProjectReference Include="..\..\osu\osu.Game.Rulesets.Mania\osu.Game.Rulesets.Mania.csproj" />
     <ProjectReference Include="..\..\osu\osu.Game.Rulesets.Taiko\osu.Game.Rulesets.Taiko.csproj" />
-
-    <PackageReference Include="osu.Framework" Version="2024.1205.0" /> 
-  </ItemGroup>
+</ItemGroup>
 
 </Project>
